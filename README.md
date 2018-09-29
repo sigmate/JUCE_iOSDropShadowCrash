@@ -1,0 +1,1 @@
+Simple JUCE project to demonstrate a crash occuring when using the PopupDisplay feature of a Slider component. The problem being caused by the DropShadow drawn under the BubbleComponent (which also relates to other Image problems according to reports on the forum).
